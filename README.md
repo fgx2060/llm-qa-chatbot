@@ -30,9 +30,9 @@ LINE 使用者 → LINE Webhook → Flask → Ollama → 模型回應 → 回傳
 
 ## 🚀 使用方式
 1. 安裝依賴：
-   ```
-   pip install -r requirements.txt
-   ```
+  ```
+  pip install -r requirements.txt
+  ```
 2.啟動 Flask 伺服器：
   ```
   python app.py
