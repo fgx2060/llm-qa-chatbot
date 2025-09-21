@@ -1,0 +1,13 @@
+flask==3.0.3
+line-bot-sdk==2.5.0
+requests==2.32.3
+opencc-python-reimplemented==0.1.7
+pyngrok==7.2.0
+
+# 若需要處理資料或進行分析
+numpy==1.26.4
+pandas==2.2.2
+
+# 若未來會擴充多模型或語音
+transformers==4.44.2
+torch==2.4.0
