@@ -54,3 +54,5 @@ LINE 使用者 → LINE Webhook → Flask → Ollama → 模型回應 → 回傳
 管理介面：
  - **Ngrok** 運作畫面
  - **LINE Bot** 管理後台
+   
+文件 : 人工智慧實務實作-大型語言模型的問答聊天機器人建構.pdf
