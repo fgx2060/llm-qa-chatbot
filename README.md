@@ -56,4 +56,5 @@ LINE 使用者 → LINE Webhook → Flask → Ollama → 模型回應 → 回傳
  - **LINE Bot** 管理後台
    
 成果報告書 : 人工智慧實務實作-大型語言模型的問答聊天機器人建構.pdf
+
 參考文獻 : LLM_based_QA_chatbot_builder_SoftwareX_2025.pdf
